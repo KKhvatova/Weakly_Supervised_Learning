@@ -1,4 +1,4 @@
-# Weakly-Supervised-Learning
+# Weakly Supervised Learning
 
 ## Weakly Supervised Learning: Introduction and Best Practices
 
